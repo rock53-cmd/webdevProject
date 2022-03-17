@@ -1,0 +1,65 @@
+body{
+  background-color: #393E46;
+}
+
+.left{
+  text-align: right;
+}
+
+.cloud{
+  display: inline-block;
+}
+
+.makeCenter{
+  text-align: center;
+}
+
+
+.logo{
+width: 5%;
+height: 2%;
+border-radius: 100%;
+position: relative;
+right: 4%;
+}
+
+.heading{
+  font-family: cursive;
+  color: green;
+}
+
+.quote{
+  font-family:cursive;
+  font-stretch: expanded;
+  font-style: italic;
+  color: grey;
+
+}
+
+.thumbnailSize{
+  font-size: 4rem;
+}
+
+.big{
+  font-size: 4rem;
+}
+
+text{
+  font-size: 4rem;
+}
+.first{
+  background-color: #A1EAFB;
+}
+
+.second{
+  background-color: #00ADB5;
+
+}
+
+.third{
+  background-color: #FFCEF3;
+}
+
+.fourths{
+  background-color: #CABBE9;
+}
